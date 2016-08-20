@@ -1,0 +1,6 @@
+[package]
+name = "new-year-chaos"
+version = "0.1.0"
+authors = ["Andrew Scarr <->"]
+
+[dependencies]
